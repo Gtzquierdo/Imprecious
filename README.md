@@ -1,3 +1,3 @@
 # Portfolio
 
-Hi there, welcome to my Profile. Always improving! 
+Hi there, welcome to my Portfolio. Always improving! 
