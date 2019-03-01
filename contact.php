@@ -12,9 +12,9 @@
 	$sender = $recipient;
 
 	# MAIL BODY
-	$body .= "Name: ".$_REQUEST['name']." \n";
-	$body .= "Email: ".$_REQUEST['email']." \n";
-	$body .= "Message: ".$_REQUEST['message']." \n";
+	$body .= "Name: ".$_POST['name']." \n";
+	$body .= "Email: ".$_POST['email']." \n";
+	$body .= "Message: ".$_POST['message']." \n";
 
 	## SEND MESSGAE ##
 
