@@ -3,7 +3,7 @@
 	## CONFIG ##
 
 	# ENTER YOUR EMAIL ADDRESS BELOW TO RECEIVE MESSAGES VIA CONTACT FORM
-	$recipient = "gtzquierdo@gtcreations.dev";
+	$recipient = "gtzquierdo@gmail.com";
 
 	# ENTER THE SUBJECT FOR EMAILS
 	$subject = "Contact form submission";
