@@ -20,4 +20,3 @@
 
 	mail( $recipient, $subject, $body, "From: $sender" ) or die ("Mail could not be sent.");
 
-?>
